@@ -1,6 +1,6 @@
 {
     "id": "creator_pro",
-    "name": "Flashforge Creator Pro",
+    "name": "Creator Pro",
     "version": 2,
     "inherits": "fdmprinter",
     "metadata": {
